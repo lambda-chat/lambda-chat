@@ -1,16 +1,19 @@
-## Hi there 👋
+## Languages
 
-<!--
-**lambda-chat/lambda-chat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### main
+![](https://skillicons.dev/icons?i=python,nodejs,js,typescript,regex&perline=6)
 
-Here are some ideas to get you started:
+### sub
+![](https://skillicons.dev/icons?i=cpp,rust,cs&perline=6)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tools
+
+![](https://skillicons.dev/icons?i=git,aws,dynamodb,docker,nginx,debian,vite,react,fastapi,flask,nestjs,vscode,vim&perline=6)
+
+## Studying
+
+![](https://skillicons.dev/icons?i=kubernetes,go&perline=6)
+
+## Interested in
+
+![](https://skillicons.dev/icons?i=postgres,mysql,remix,tauri,wasm,svelte,haskell,scala&perline=6)
