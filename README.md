@@ -6,7 +6,7 @@
 ### sub
 ![](https://skillicons.dev/icons?i=cpp,rust,cs&perline=6)
 
-## Dev Tools
+## Dev Tools & Frameworks
 
 ![](https://skillicons.dev/icons?i=git,aws,dynamodb,docker,debian,nginx,vite,react,fastapi,flask,nestjs,vscode,vim&perline=6)
 
