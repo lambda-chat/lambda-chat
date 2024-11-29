@@ -1,7 +1,7 @@
 ## Languages & Runtimes
 
 ### main
-![](https://skillicons.dev/icons?i=python,nodejs,js,typescript,regex&perline=6)
+![](https://skillicons.dev/icons?i=python,regex,nodejs,typescript,js&perline=6)
 
 ### sub
 ![](https://skillicons.dev/icons?i=cpp,rust,cs&perline=6)
