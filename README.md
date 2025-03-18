@@ -12,8 +12,8 @@
 
 ## Studying
 
-![](https://skillicons.dev/icons?i=kubernetes,go&perline=6)
+![](https://skillicons.dev/icons?i=postgres,prisma,kubernetes,go&perline=6)
 
 ## Interested in
 
-![](https://skillicons.dev/icons?i=postgres,mysql,remix,tauri,wasm,svelte,haskell,scala&perline=6)
+![](https://skillicons.dev/icons?i=mysql,remix,tauri,wasm,svelte,haskell,scala&perline=6)
