@@ -16,4 +16,4 @@
 
 ## Interested in
 
-![](https://skillicons.dev/icons?i=mysql,tauri,wasm,svelte,haskell,scala&perline=6)
+![](https://skillicons.dev/icons?i=tauri,wasm,svelte,haskell,scala&perline=6)
