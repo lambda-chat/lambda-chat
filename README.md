@@ -4,7 +4,7 @@
 ![](https://skillicons.dev/icons?i=python,regex,nodejs,typescript,js&perline=6)
 
 ### sub
-![](https://skillicons.dev/icons?i=cpp,rust,cs&perline=6)
+![](https://skillicons.dev/icons?i=rust,cpp,cs&perline=6)
 
 ## Dev Tools & Frameworks
 
