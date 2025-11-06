@@ -12,8 +12,8 @@
 
 ## Studying
 
-![](https://skillicons.dev/icons?i=kubernetes,unity&perline=6)
+![](https://skillicons.dev/icons?i=kubernetes,blender,unity&perline=6)
 
 ## Interested in
 
-![](https://skillicons.dev/icons?i=tauri,wasm,svelte,haskell,scala,blender&perline=6)
+![](https://skillicons.dev/icons?i=tauri,wasm,svelte,haskell,scala&perline=6)
